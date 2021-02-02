@@ -95,14 +95,14 @@ analytics:
 author:
   name             : "Shin YunA"
   avatar           : "/assets/images/main.jpg" 
-  bio              : "통계학을 전공했으며, *Data science* 에 관심이 있습니다."
+  bio              : "Statistical Analysis"
   location         : "Seoul, Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yunashin3@email.com"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yunashin-130"
     - label: "GitHub"
@@ -128,8 +128,8 @@ footer:
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/yunashin3"
     # - label: "Linkedin"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/yunashin-130"
+    #   icon: "fab fa-fw fa-linkedIn"
+    #   url: "https://www.linkedIn.com/in/yunashin-130"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url:

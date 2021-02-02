@@ -3,9 +3,11 @@ title:  "Data Science 분야에서의 머신러닝"
 excerpt: "머신러닝과 딥러닝의 장단점 및 적용 사례"
 
 categories:
-  - Blog
+  - Big Data
 tags:
-  - Blog
+  - Big Data 
+  - Machine Learning 
+  - Deep Learning
 last_modified_at: 2021-02-02T08:06:00-05:00
 ---
 

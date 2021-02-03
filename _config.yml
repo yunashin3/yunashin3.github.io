@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Shin YunA"
-  avatar           : "/assets/images/main.jpg" 
+  avatar           : "/assets/images/main.jpg"
   bio              : "*Statistical Analysis*"
   location         : "Seoul, Korea"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -282,3 +282,8 @@ defaults:
       comments: true
       share: true
       related: true
+
+
+# contents
+toc: true
+toc_sticky: true

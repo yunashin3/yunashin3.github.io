@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "YunA's Blog"
 description              : ""
 url                      : "https://yunashin3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

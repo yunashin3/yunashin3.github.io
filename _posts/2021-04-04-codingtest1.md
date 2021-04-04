@@ -5,17 +5,26 @@ toc: true
 toc_sticky: true
 
 categories:
-  - Coding test
-  - Python
+  - algorithm
 last_modified_at: 2021-04-04
 ---
 
-## [문제 10171] 아래 예제와 같이 고양이를 출력하시오. <br>
-https://www.acmicpc.net/problem/10171 <br>
+## [문제 10171]
+아래 예제와 같이 고양이를 출력하시오.
+```bash
+\    /\
+ )  ( ')
+(  /  )
+ \(__)|
+```
+
 [Python]
-    ```bash
-    $ print("\\    /\\")
-    $ print(" )  ( ')")
-    $ print("(  /  )")
-    $ print(" \\(__)|")
-    ```
+```bash
+$ print("\\    /\\")
+$ print(" )  ( ')")
+$ print("(  /  )")
+$ print(" \\(__)|")
+```
+
+##### [출처]
+https://www.acmicpc.net/problem/10171 

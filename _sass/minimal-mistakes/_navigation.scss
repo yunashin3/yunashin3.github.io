@@ -529,9 +529,9 @@
 .toc__menu {
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: 90%;
   list-style: none;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   @include breakpoint($large) {
     font-size: $type-size-7;

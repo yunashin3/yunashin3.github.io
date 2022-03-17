@@ -1,5 +1,5 @@
 ---
 title: "Book list"
-permalink: /books/
+permalink: /book/
 author_profile: true
 ---

@@ -6,5 +6,5 @@ main:
     url: /about/
   - title: "Book"
     url: /book/
-  - title: "Study"
-    url: /study/
+  - title: "Category"
+    url: /category/

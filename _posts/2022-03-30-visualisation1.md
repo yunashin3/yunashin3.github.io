@@ -16,3 +16,4 @@ last_modified_at: 2022-03-30
 ## 2. Flourish
    영상으로 보는 데이터 시각화, 특히 Bar chart가 유명 <br>
   ![flourish1](/img/flourish1.png)<br>
+ 
